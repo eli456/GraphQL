@@ -1,6 +1,6 @@
 build:
   eli456:  # cambiar por su namespcode
-    image: okteto.dev/eli456:latest  # cambiar por su namespace de okteto
+    image: okteto.dev/eli45:latest  # cambiar por su namespace de okteto
 
 deploy:
   - okteto build # build the image with the latest e resources in kubernetes
