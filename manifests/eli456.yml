@@ -32,7 +32,7 @@ metadata:
   name: eli456
   annotations:
     dev.okteto.com/auto-ingress: "true"
-spec:
+spec: 
   type: ClusterIP
   ports:
   - name: "eli456"

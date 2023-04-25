@@ -4,7 +4,7 @@ metadata:
   name: eli456-config
   labels:
     app: postgres
-data:
+data: 
   PROD_SECRET_KEY : ElizabethCochinota 
   PROD_DATABASE : qqvndewn 
   PROD_USER : qqvndewn 
